@@ -1,0 +1,93 @@
+type,content,name
+text,"A set of prompts will now appear, you may click the record button to record when you are ready.",BlockStartInstruction
+text,Finding the derivative of x-dash y cos z should not be this difficult.,DialPrompt1
+text,Take it alright where it belongs you decide.,DialPrompt10
+text,Bro sure with all my work I've made it to the brochure.,DialPrompt11
+text,He got to the plot to plant bland bread plenty late and had to ladle the blend prior.,DialPrompt12
+text,"Henry heard raging hot heads rockily hover round his risky head, hoping regulation homes remain.",DialPrompt13
+text,"Bro, I don't even know what she said dude she's going on and on as if I did something so bad bro",DialPrompt2
+text,She gives it a one of ten when often it deserves more.,DialPrompt3
+text,Did you order seventy parts apart from the prayer part?,DialPrompt4
+text,I don't know why you'd go fart then that forgetful one wouldn't hear a word,DialPrompt5
+text,You'll adhere to going where mars and venus were visibly singing.,DialPrompt6
+text,They abhor the abolition absconders that speak of aborting arbitrary overlooking.,DialPrompt7
+text,Why would veins have caught on to the caroling war jobholders.,DialPrompt8
+text,Wrap the wrap in aluminium foil wrap and tell that fellow where to go da.,DialPrompt9
+text,"Turn on the living room, bedroom and kitchen lights",ExpPrompt1
+text,"The beige hue on the waters of the loch impressed all, including the French queen, before she heard that symphony again, just as young Arthur wanted",ExpPrompt10
+text,She wouldn't've known how it ain't all rosy,ExpPrompt2
+text,There aren't enough people with S-tier rizz,ExpPrompt3
+text,"Please call Stella. Ask her to bring these things with her from the store: Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob. We also need a small plastic snake and a big toy frog for the kids. She can scoop these things into three red bags, and we will go meet her Wednesday at the train station.",ExpPrompt4
+text,You haven't even been to the In-n-Out in the Outback Steakhouse neighbourhood? ,ExpPrompt5
+text,It's not all fun-n-games with y'all subbing for 'em ,ExpPrompt6
+text,The complex houses married and single soldiers and their families,ExpPrompt7
+text,"Histories make men wise; poets, witty; the mathematics, subtle; natural philosophy, deep; moral, grave; logic and rhetoric, able to contend",ExpPrompt8
+text,"The North Wind and the Sun were disputing which was the stronger, when a traveler came along wrapped in a warm cloak.
+They agreed that the one who first succeeded in making the traveler take his cloak off should be considered stronger than the other.
+Then the North Wind blew as hard as he could, but the more he blew the more closely did the traveler fold his cloak around him;
+and at last the North Wind gave up the attempt. Then the Sun shined out warmly, and immediately the traveler took off his cloak.
+And so the North Wind was obliged to confess that the Sun was the stronger of the two.",ExpPrompt9
+text,"If you have any suggestions, questions or comments, please let us know here!",FinalPrompt
+text,Could you pare a pair of pears for me?,HardPrompt1
+text,Everyone expected instant metanoia when Meta launched and met a mere man to mete out meters of metamorphosing moves.,HardPrompt10
+text,He took a wok from the chinese restaurant at the end of his walk.,HardPrompt11
+text,Rose rose to put rose roes on her rows of roses.,HardPrompt2
+text,She flew out to feel flu-flouting flounder few knew to flu flout.,HardPrompt3
+text,She came back from the sweltering heat of the dessert.,HardPrompt4
+text,soldiers married and single their the houses complex families and,HardPrompt5
+text,Every night he can't help but see iridescent laser beams ephemerally shining.,HardPrompt6
+text,"Though it's a bastion of wonder, the bougie bungalow uses effete schemes.",HardPrompt7
+text,population windy trout head birthday brim caught exalting grudge bundt,HardPrompt8
+text,"Her dress was made of the most beautiful, delicate laze.",HardPrompt9
+text,Hello! The following questions will ask you to record yourself speaking into your microphone. This should take around 15 minutes. You may take breaks in between chunks of recordings.,InstructionSlide1
+text,"Try to pronounce everything you see to the best of your ability. Some of the words or sentences may seem unusual or ungrammatical, but please pronounce them as they are presented even if it is not meaningful. You may re-record yourself if you think you made a speech error by clicking the record button again. Please make sure to hold your recording device at a distance away from your mouth such that the recording is not at full volume (the orange bar should not reach the right end of the scale).",InstructionSlide2
+text,"Please say these prompts as if you were speaking to a friend with a similar language or cultural background. Use whatever dialect or speech style feels most natural to you, our goal is to record you as you usually talk.",InstructionSlide3
+text,"Which languages, if any, do you speak besides English?",LangBgQ1
+text,Which languages were spoken around you where you grew up?,LangBgQ2
+text,Which languages do you think have an influence on your accent or dialect?,LangBgQ3
+text,"If you have been told you have an accent associated with a region, select the region:",LangBgQ4
+text,"If you have been surrounded by this language/these languages for extended periods of time, select the language/s",LangBgQ5
+text,"Where did you grow up or spend a lot of time in your life? Feel free to list places if you have mutliple. You can use City, State, Country to format the place/places.",LangBgQ6
+text,"If you selected Other, please name the other language/languages, otherwise you may leave this blank:",LangBgQOther
+text,What's the best papdi chat to have with friends in Mysore Palace?,LocPrompt1
+text,"That was a dabba movie, chumma you said it's amazing n something n all",LocPrompt10
+text,They knew where Snigdha would be on a Friday evening.,LocPrompt11
+text,He is leaving for Srirangam tomorrow.,LocPrompt12
+text,I enjoy eating luchi and aloor dum.,LocPrompt13
+text,"Guru, help me out boss, I'm running out of money",LocPrompt14
+text,She is going to see Charminar tomorrow.,LocPrompt15
+text,They knew where Rituparno would be on a Friday evening.,LocPrompt16
+text,I enjoy eating poori with chana masala.,LocPrompt17
+text,"What da, why you keep laughing?",LocPrompt18
+text,They knew where Nagaraju would be on a Friday evening.,LocPrompt19
+text,"She ate up the naan, confrontation awaited her ",LocPrompt2
+text,She is leaving for Gorakhpur tomorrow.,LocPrompt20
+text,I enjoy eating roti with daal tadka.,LocPrompt21
+text,They knew where Anirudh would be on a Friday evening.,LocPrompt22
+text,Those two were dancing full-on at the wedding.,LocPrompt23
+text,He is leaving for Malleshwaram tomorrow.,LocPrompt24
+text,I enjoy eating maddur vada and chutney.,LocPrompt25
+text,They knew where Saathvik would be on a Friday evening.,LocPrompt26
+text,"Macha what are you doing, come off to the movie on Friday no",LocPrompt27
+text,He is leaving for Kolkata tomorrow.,LocPrompt28
+text,She is leaving for Calcutta tomorrow.,LocPrompt29
+text,They knew where Manjunatha would be on a Friday evening.,LocPrompt3
+text,He is leaving for Bengaluru tomorrow.,LocPrompt30
+text,She is leaving for Bangalore tomorrow.,LocPrompt31
+text,He is leaving for Bombay tomorrow.,LocPrompt32
+text,She is leaving for Mumbai tomorrow.,LocPrompt33
+text,He is leaving for New York tomorrow.,LocPrompt34
+text,She is leaving for Los Angeles tomorrow.,LocPrompt35
+text,He is leaving for Chicago tomorrow.,LocPrompt36
+text,She is leaving for Houston tomorrow.,LocPrompt37
+text,He is leaving for Temecula tomorrow.,LocPrompt38
+text,She is leaving for Savannah tomorrow.,LocPrompt39
+text,I ate the kolumb and naan described as San Diego's best,LocPrompt4
+text,He is leaving for Newton tomorrow.,LocPrompt40
+text,She is leaving for Brentwood tomorrow.,LocPrompt41
+text,He is leaving through Golden Gate bridge tomorrow.,LocPrompt42
+text,"Lakshmi and Palash have been sceneing so much, they're definitely dating",LocPrompt5
+text,They knew where Uma would be on a Friday evening.,LocPrompt6
+text,I enjoy eating sambar with dosa. ,LocPrompt7
+text,They knew where Shweta would be on a Friday evening.,LocPrompt8
+text,She is leaving through Howrah Bridge tomorrow.,LocPrompt9
